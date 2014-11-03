@@ -14,6 +14,7 @@
 		530388FB1A081EC7001602ED /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 530388FA1A081EC7001602ED /* Images.xcassets */; };
 		530388FE1A081EC7001602ED /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 530388FC1A081EC7001602ED /* LaunchScreen.xib */; };
 		5303890A1A081EC7001602ED /* Drawing_a_houseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 530389091A081EC7001602ED /* Drawing_a_houseTests.m */; };
+		530389151A081EFF001602ED /* DrawingHouseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 530389141A081EFF001602ED /* DrawingHouseView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		530389031A081EC7001602ED /* Drawing a houseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Drawing a houseTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		530389081A081EC7001602ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		530389091A081EC7001602ED /* Drawing_a_houseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Drawing_a_houseTests.m; sourceTree = "<group>"; };
+		530389131A081EFF001602ED /* DrawingHouseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawingHouseView.h; sourceTree = "<group>"; };
+		530389141A081EFF001602ED /* DrawingHouseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawingHouseView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				530388F41A081EC7001602ED /* ViewController.h */,
 				530388F51A081EC7001602ED /* ViewController.m */,
 				530388F71A081EC7001602ED /* Main.storyboard */,
+				530389131A081EFF001602ED /* DrawingHouseView.h */,
+				530389141A081EFF001602ED /* DrawingHouseView.m */,
 				530388FA1A081EC7001602ED /* Images.xcassets */,
 				530388FC1A081EC7001602ED /* LaunchScreen.xib */,
 				530388ED1A081EC7001602ED /* Supporting Files */,
@@ -218,6 +223,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				530389151A081EFF001602ED /* DrawingHouseView.m in Sources */,
 				530388F61A081EC7001602ED /* ViewController.m in Sources */,
 				530388F31A081EC7001602ED /* AppDelegate.m in Sources */,
 				530388F01A081EC7001602ED /* main.m in Sources */,

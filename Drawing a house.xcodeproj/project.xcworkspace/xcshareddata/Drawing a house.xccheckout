@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6F0D67B-B35B-4366-B588-2707CCD8121F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Drawing a house</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D66C224DE276F33423C48DD8081D7399C826E7AA</key>
+		<string>https://github.com/jainsakshi22/UiBezierPath-Challenge-Solution--Drawing-a-house.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Drawing a house.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D66C224DE276F33423C48DD8081D7399C826E7AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jainsakshi22/UiBezierPath-Challenge-Solution--Drawing-a-house.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D66C224DE276F33423C48DD8081D7399C826E7AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D66C224DE276F33423C48DD8081D7399C826E7AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Drawing%20a%20house</string>
+		</dict>
+	</array>
+</dict>
+</plist>
